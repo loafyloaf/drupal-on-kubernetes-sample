@@ -2,4 +2,4 @@
 
 # Deploy Drupal on Kubernetes
 
-Coming soon...
+In this Code Pattern, we will setup a Drupal site using Kubernetes and Postgres. 
